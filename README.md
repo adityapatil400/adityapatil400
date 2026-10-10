@@ -1,20 +1,217 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-Hi, I'm Aditya Patil. 👋<br>I build intelligent applications at the intersection of AI, automation, and full-stack development, with a focus on solving real-world problems through technology.<br>I'm particularly interested in agentic AI, generative AI, AI/ML, automation, MERN Stack, .NET development, and AI-powered applications.<br> I enjoy exploring emerging technologies, building practical projects, and turning innovative ideas into scalable solutions.<br>I'm always learning, experimenting, and building something new. 🚀
+# ⚡ Aditya Patil
+### **Full-Stack Developer | AI/ML Enthusiast | Agentic AI Explorer**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapatil123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapatil400)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=react&logoColor=white)](https://github.com/adityapatil400/portfolio-website)
+[![Visitor Count](https://komarev.com/ghpvc/?username=adityapatil400&color=2563eb&style=for-the-badge&label=Profile+Views)](https://github.com/adityapatil400)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/adityapatil123) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=adityapatil400&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=adityapatil400&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adityapatil400&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <em>Engineering practical, intelligent systems at the intersection of Autonomous Agents, Machine Learning, and Scalable Full-Stack Architectures.</em>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=adityapatil400&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## 📌 About Me
+
+Hi, I'm **Aditya Patil** — a Computer Science & Engineering undergraduate (Class of 2028) focused on building intelligent applications at the intersection of AI, automation, and full-stack development.
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (Graduating in 2028)
+- 🎯 **Primary Focus:** Agentic AI architectures, LLM-powered tools, MERN stack, and high-performance .NET solutions.
+- 💡 **Philosophy:** Bridging foundational software engineering with modern AI workflows to create impactful, real-world products.
+- 🚀 **Mindset:** Constantly experimenting, designing clean architectures, and shipping maintainable code.
+
+---
+
+## 🔭 Current Focus & Learning
+
+```text
+├── 🤖 Agentic AI           Autonomous task pipelines, agent orchestration, and tool-augmented LLMs
+├── 🧠 Generative AI & ML   Fine-tuning, prompt engineering, embeddings, and intelligent data systems
+├── 🌐 Full-Stack Systems   High-throughput REST APIs, responsive UIs, and real-time data flows
+├── ⚙️ Developer Tooling    AST static analyzers, automation scripts, and workflow optimizers
+└── ☁️ Cloud & DevOps       Docker containerization, Kubernetes basics, and CI/CD automation
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+### 🗄️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🧠 AI / ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ LeakGuard</h3>
+      <p>An AST-based Python static code analyzer designed to detect unclosed resources, memory leaks, and inefficient handling patterns in Python codebases before runtime execution.</p>
+      <p>
+        <code>Python</code>&nbsp;•&nbsp;<code>AST</code>&nbsp;•&nbsp;<code>Static Analysis</code>&nbsp;•&nbsp;<code>Developer Tools</code>
+      </p>
+      <p>
+        <a href="https://github.com/adityapatil400/LeakGuard"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♻️ ElectroFlow / E-ScrapZone</h3>
+      <p>A full-stack circular economy platform for electronics donation, refurbishment lifecycle tracking, and verified e-waste disposal with distinct client and admin portals.</p>
+      <p>
+        <code>Node.js</code>&nbsp;•&nbsp;<code>Express</code>&nbsp;•&nbsp;<code>MongoDB</code>&nbsp;•&nbsp;<code>React</code>
+      </p>
+      <p>
+        <a href="https://github.com/adityapatil400/ElectroFlow"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 AI Content Scanner</h3>
+      <p>Intelligent text analysis and detection system identifying synthetic AI-generated content patterns, contextual markers, and originality scoring.</p>
+      <p>
+        <code>Python</code>&nbsp;•&nbsp;<code>NLP</code>&nbsp;•&nbsp;<code>FastAPI</code>&nbsp;•&nbsp;<code>React</code>
+      </p>
+      <p>
+        <a href="https://github.com/adityapatil400/AI-Content-Scanner"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Stock Exchange Hub</h3>
+      <p>Real-time financial asset tracker and market intelligence dashboard providing visual charting, historical indicators, and portfolio tracking.</p>
+      <p>
+        <code>JavaScript</code>&nbsp;•&nbsp;<code>REST APIs</code>&nbsp;•&nbsp;<code>Financial Analytics</code>
+      </p>
+      <p>
+        <a href="https://github.com/adityapatil400/stock-exchange-hub1"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Carbon Footprint Tracker</h3>
+      <p>Environmental analytics application computing daily resource consumption metrics and emission estimates to help users adopt sustainable habits.</p>
+      <p>
+        <code>Full-Stack</code>&nbsp;•&nbsp;<code>Analytics</code>&nbsp;•&nbsp;<code>Sustainability</code>
+      </p>
+      <p>
+        <a href="https://github.com/adityapatil400/Carbon-Footprint-Tracker"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Developer Portfolio</h3>
+      <p>Modern, responsive developer showcase featuring interactive UI components, project demos, and technical writing.</p>
+      <p>
+        <code>React</code>&nbsp;•&nbsp;<code>Vite</code>&nbsp;•&nbsp;<code>Modern CSS</code>
+      </p>
+      <p>
+        <a href="https://github.com/adityapatil400/portfolio-website"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=adityapatil400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="Aditya's GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil400&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil400&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=79c0ff" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always keen to collaborate on **Agentic AI research, open-source developer tooling, and scalable full-stack web applications**.
+
+<p align="center">
+  <a href="https://linkedin.com/in/adityapatil123">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/adityapatil400">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<div align="center">
+
+> *"Building pragmatic, intelligent systems that bridge human creativity and machine intelligence."*
+
+<sub>Crafted with focus & precision • © 2026 Aditya Patil</sub>
+
+</div>
