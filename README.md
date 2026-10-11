@@ -139,13 +139,11 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%"
-  />
-</div>
+
+## 🐍 GitHub Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 
 <br/><br/>
