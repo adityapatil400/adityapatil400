@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 270" width="100%" height="100%">
+  <defs>
+    <linearGradient id="focusBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+
+    <!-- Bar Gradients -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+
+    <filter id="barGlow" x="-10%" y="-20%" width="120%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .focus-title { font-size: 13.5px; font-weight: 600; fill: #f0f6fc; }
+    .stage-badge { font-size: 11px; font-weight: 600; font-family: 'SF Mono', monospace; }
+    .track-bg { fill: #161b22; rx: 4px; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .bar-fill { animation: none !important; }
+    }
+  </style>
+
+  <!-- Base Panel -->
+  <rect x="3" y="3" width="844" height="264" rx="12" fill="url(#focusBg)" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Row 1: Agentic AI & AI Agents -->
+  <g transform="translate(25, 20)">
+    <text x="0" y="16" class="font-sans focus-title">🤖 Agentic AI &amp; Multi-Agent Workflows</text>
+    <text x="800" y="16" text-anchor="end" fill="#00d4ff" class="stage-badge">[ EXPLORING &amp; ORCHESTRATING ]</text>
+    <!-- Track -->
+    <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
+    <!-- Active Bar -->
+    <rect x="0" y="24" width="700" height="8" rx="4" fill="url(#cyanGrad)" class="bar-fill" filter="url(#barGlow)">
+      <animate attributeName="width" values="0;700" dur="1.2s" begin="0.1s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- Row 2: Generative AI & LLM Applications -->
+  <g transform="translate(25, 70)">
+    <text x="0" y="16" class="font-sans focus-title">🧠 Generative AI &amp; LLM Systems</text>
+    <text x="800" y="16" text-anchor="end" fill="#a855f7" class="stage-badge">[ BUILDING &amp; EXPERIMENTING ]</text>
+    <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
+    <rect x="0" y="24" width="670" height="8" rx="4" fill="url(#purpleGrad)" class="bar-fill" filter="url(#barGlow)">
+      <animate attributeName="width" values="0;670" dur="1.2s" begin="0.3s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- Row 3: MERN & .NET Full-Stack -->
+  <g transform="translate(25, 120)">
+    <text x="0" y="16" class="font-sans focus-title">🌐 MERN &amp; .NET Full-Stack Web Development</text>
+    <text x="800" y="16" text-anchor="end" fill="#00d4ff" class="stage-badge">[ BUILDING SCALABLE APPS ]</text>
+    <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
+    <rect x="0" y="24" width="740" height="8" rx="4" fill="url(#cyanGrad)" class="bar-fill" filter="url(#barGlow)">
+      <animate attributeName="width" values="0;740" dur="1.2s" begin="0.5s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- Row 4: Python Automation & Developer Tools -->
+  <g transform="translate(25, 170)">
+    <text x="0" y="16" class="font-sans focus-title">⚙️ Python Automation &amp; AST Analysis Tools</text>
+    <text x="800" y="16" text-anchor="end" fill="#3b82f6" class="stage-badge">[ BUILDING CLI &amp; AST TOOLS ]</text>
+    <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
+    <rect x="0" y="24" width="720" height="8" rx="4" fill="url(#accentGrad)" class="bar-fill" filter="url(#barGlow)">
+      <animate attributeName="width" values="0;720" dur="1.2s" begin="0.7s" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- Row 5: Cloud, System Design & Containers -->
+  <g transform="translate(25, 220)">
+    <text x="0" y="16" class="font-sans focus-title">☁️ Cloud, System Design, Docker &amp; Kubernetes</text>
+    <text x="800" y="16" text-anchor="end" fill="#a855f7" class="stage-badge">[ LEARNING &amp; IMPLEMENTING ]</text>
+    <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
+    <rect x="0" y="24" width="620" height="8" rx="4" fill="url(#purpleGrad)" class="bar-fill" filter="url(#barGlow)">
+      <animate attributeName="width" values="0;620" dur="1.2s" begin="0.9s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

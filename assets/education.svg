@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 230" width="100%" height="100%">
+  <defs>
+    <linearGradient id="eduBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="50%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+
+    <filter id="eduGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .title { font-size: 15px; font-weight: 700; fill: #f0f6fc; }
+    .inst { font-size: 13px; fill: #8b949e; }
+    .desc { font-size: 12px; fill: #c9d1d9; }
+    .badge-text { font-size: 11px; font-weight: 600; font-family: 'SF Mono', monospace; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .line-draw, .node-scale, .pulse-ring { animation: none !important; stroke-dashoffset: 0 !important; opacity: 1 !important; }
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="3" y="3" width="844" height="224" rx="12" fill="url(#eduBg)" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Self-Drawing Vertical Timeline Line -->
+  <line x1="45" y1="35" x2="45" y2="195" stroke="url(#lineGrad)" stroke-width="3" stroke-dasharray="160" stroke-dashoffset="160" class="line-draw">
+    <animate attributeName="stroke-dashoffset" values="160;0" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </line>
+
+  <!-- ================= Milestone 1 (Top / Latest): B.Tech ================= -->
+  <!-- Node 1 Circle with Pulse -->
+  <g transform="translate(45, 60)" class="node-scale">
+    <!-- Pulsing Ring for 2028 Active Pursuing -->
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#00d4ff" stroke-width="1.5" opacity="0.6" class="pulse-ring">
+      <animate attributeName="r" values="8;18;8" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="7" fill="#00d4ff" filter="url(#eduGlow)"/>
+    <circle cx="0" cy="0" r="3" fill="#ffffff"/>
+  </g>
+
+  <!-- Node 1 Content Card -->
+  <g transform="translate(75, 38)">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+    <!-- Degree & Status Pill -->
+    <text x="0" y="16" class="font-sans title">B.Tech in Computer Science &amp; Engineering</text>
+    
+    <!-- Status Badge -->
+    <rect x="330" y="2" width="150" height="20" rx="10" fill="#0d2838" stroke="#00d4ff" stroke-width="1"/>
+    <circle cx="342" cy="12" r="3" fill="#00d4ff"/>
+    <text x="352" y="15" fill="#00d4ff" class="badge-text">Pursuing • Exp 2028</text>
+
+    <!-- Institution -->
+    <text x="0" y="38" class="font-sans inst">🏛️ D. Y. Patil Agriculture &amp; Technical University, Talsande</text>
+    <text x="0" y="56" class="font-sans desc">Specializing in AI/ML systems, distributed architectures, scalable web engineering, and algorithms.</text>
+  </g>
+
+  <!-- ================= Milestone 2 (Bottom): Diploma ================= -->
+  <!-- Node 2 Circle -->
+  <g transform="translate(45, 160)" class="node-scale">
+    <circle cx="0" cy="0" r="7" fill="#3b82f6" filter="url(#eduGlow)"/>
+    <circle cx="0" cy="0" r="3" fill="#ffffff"/>
+  </g>
+
+  <!-- Node 2 Content Card -->
+  <g transform="translate(75, 138)">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.9s" fill="freeze"/>
+    <text x="0" y="16" class="font-sans title">Diploma in Computer Engineering</text>
+    
+    <!-- Status Badge -->
+    <rect x="270" y="2" width="105" height="20" rx="10" fill="#14213d" stroke="#3b82f6" stroke-width="1"/>
+    <circle cx="282" cy="12" r="3" fill="#3b82f6"/>
+    <text x="292" y="15" fill="#3b82f6" class="badge-text">Completed</text>
+
+    <!-- Institution -->
+    <text x="0" y="38" class="font-sans inst">🏛️ Latthe Education Society's Polytechnic, Sangli</text>
+    <text x="0" y="56" class="font-sans desc">Built core foundations in software development, data structures, operating systems, and DBMS.</text>
+  </g>
+</svg>

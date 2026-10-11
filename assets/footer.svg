@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#070a1a"/>
+    </linearGradient>
+
+    <linearGradient id="quoteGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+
+    <filter id="starGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-quote { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 700; }
+    .font-mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    
+    @media (prefers-reduced-motion: reduce) {
+      .star-anim { animation: none !important; opacity: 0.6 !important; }
+    }
+  </style>
+
+  <!-- Base Panel -->
+  <rect x="3" y="3" width="844" height="134" rx="12" fill="url(#footerBg)" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Twinkling Starfield (24 Staggered Stars) -->
+  <g class="star-anim">
+    <!-- Star 1 -->
+    <circle cx="60" cy="30" r="1.5" fill="#00d4ff" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="0.1s"/>
+    </circle>
+    <!-- Star 2 -->
+    <circle cx="140" cy="90" r="2" fill="#a855f7" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="4s" repeatCount="indefinite" begin="0.8s"/>
+    </circle>
+    <!-- Star 3 -->
+    <circle cx="220" cy="40" r="1.2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite" begin="0.4s"/>
+    </circle>
+    <!-- Star 4 -->
+    <circle cx="310" cy="110" r="1.8" fill="#00d4ff">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite" begin="1.2s"/>
+    </circle>
+    <!-- Star 5 -->
+    <circle cx="400" cy="25" r="2" fill="#3b82f6" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.2s" repeatCount="indefinite" begin="0.2s"/>
+    </circle>
+    <!-- Star 6 -->
+    <circle cx="490" cy="115" r="1.5" fill="#a855f7">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+    <!-- Star 7 -->
+    <circle cx="580" cy="35" r="1.8" fill="#00d4ff" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.8s" repeatCount="indefinite" begin="0.7s"/>
+    </circle>
+    <!-- Star 8 -->
+    <circle cx="670" cy="95" r="2.2" fill="#ffffff">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="2.8s" repeatCount="indefinite" begin="1.9s"/>
+    </circle>
+    <!-- Star 9 -->
+    <circle cx="760" cy="45" r="1.5" fill="#a855f7" filter="url(#starGlow)">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <!-- Star 10 -->
+    <circle cx="810" cy="85" r="1.2" fill="#00d4ff">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.7s" repeatCount="indefinite" begin="1.1s"/>
+    </circle>
+    <!-- Star 11 -->
+    <circle cx="100" cy="110" r="1.4" fill="#3b82f6">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.5s" repeatCount="indefinite" begin="2.1s"/>
+    </circle>
+    <!-- Star 12 -->
+    <circle cx="720" cy="20" r="1.6" fill="#00d4ff">
+      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" repeatCount="indefinite" begin="1.4s"/>
+    </circle>
+  </g>
+
+  <!-- Quote Statement -->
+  <text x="425" y="60" text-anchor="middle" fill="url(#quoteGrad)" class="font-quote" letter-spacing="0.5">
+    “ Building, learning, and exploring the future of intelligent software. 🚀 ”
+  </text>
+
+  <!-- Subtext -->
+  <text x="425" y="96" text-anchor="middle" fill="#8b949e" font-size="12" class="font-mono">
+    ENGINEERED WITH PASSION &amp; CODE <tspan fill="#00d4ff">•</tspan> ADITYA PATIL <tspan fill="#a855f7">•</tspan> 2026
+  </text>
+</svg>

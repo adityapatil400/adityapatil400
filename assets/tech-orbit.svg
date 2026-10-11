@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="orbitBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#080c1d"/>
+    </linearGradient>
+
+    <!-- Center Core Glow -->
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0a0e27" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glowFilt" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; font-size: 11px; font-weight: 600; }
+    .orbit-ring { fill: none; stroke: #30363d; stroke-width: 1.2; stroke-dasharray: 4 6; }
+    .chip-orbit { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+    .core-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 800; fill: #ffffff; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .rotate-cw, .rotate-ccw, .counter-cw, .counter-ccw { animation: none !important; }
+    }
+  </style>
+
+  <!-- Base Panel -->
+  <rect x="2" y="2" width="846" height="356" rx="12" fill="url(#orbitBg)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Center Origin (425, 180) -->
+  <g transform="translate(425, 180)">
+    <!-- Ambient Radial Halo -->
+    <circle cx="0" cy="0" r="165" fill="url(#coreGlow)"/>
+
+    <!-- Orbital Ring 1 (R = 85) -->
+    <circle cx="0" cy="0" r="85" class="orbit-ring" stroke="#00d4ff" opacity="0.4"/>
+
+    <!-- Orbital Ring 2 (R = 145) -->
+    <circle cx="0" cy="0" r="145" class="orbit-ring" stroke="#a855f7" opacity="0.4"/>
+
+    <!-- ================= ORBIT 1 (Clockwise, 20s) ================= -->
+    <g class="rotate-cw">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+      
+      <!-- Node 1: Python at (0, -85) -->
+      <g transform="translate(0, -85)">
+        <g class="counter-cw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="20s" repeatCount="indefinite"/>
+          <rect x="-38" y="-14" width="76" height="28" rx="14" class="chip-orbit" stroke="#00d4ff"/>
+          <circle cx="-24" cy="0" r="3" fill="#00d4ff"/>
+          <text x="-14" y="4" class="font-mono" fill="#f0f6fc">Python</text>
+        </g>
+      </g>
+
+      <!-- Node 2: React at (85, 0) -->
+      <g transform="translate(85, 0)">
+        <g class="counter-cw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="20s" repeatCount="indefinite"/>
+          <rect x="-35" y="-14" width="70" height="28" rx="14" class="chip-orbit" stroke="#3b82f6"/>
+          <circle cx="-22" cy="0" r="3" fill="#3b82f6"/>
+          <text x="-12" y="4" class="font-mono" fill="#f0f6fc">React</text>
+        </g>
+      </g>
+
+      <!-- Node 3: FastAPI at (0, 85) -->
+      <g transform="translate(0, 85)">
+        <g class="counter-cw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="20s" repeatCount="indefinite"/>
+          <rect x="-40" y="-14" width="80" height="28" rx="14" class="chip-orbit" stroke="#00d4ff"/>
+          <circle cx="-26" cy="0" r="3" fill="#00d4ff"/>
+          <text x="-16" y="4" class="font-mono" fill="#f0f6fc">FastAPI</text>
+        </g>
+      </g>
+
+      <!-- Node 4: .NET at (-85, 0) -->
+      <g transform="translate(-85, 0)">
+        <g class="counter-cw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="20s" repeatCount="indefinite"/>
+          <rect x="-32" y="-14" width="64" height="28" rx="14" class="chip-orbit" stroke="#a855f7"/>
+          <circle cx="-20" cy="0" r="3" fill="#a855f7"/>
+          <text x="-10" y="4" class="font-mono" fill="#f0f6fc">.NET</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- ================= ORBIT 2 (Counter-Clockwise, 32s) ================= -->
+    <g class="rotate-ccw">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="32s" repeatCount="indefinite"/>
+
+      <!-- Node 1: Agentic AI at (0, -145) -->
+      <g transform="translate(0, -145)">
+        <g class="counter-ccw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/>
+          <rect x="-50" y="-14" width="100" height="28" rx="14" class="chip-orbit" stroke="#00d4ff"/>
+          <circle cx="-36" cy="0" r="3" fill="#00d4ff"/>
+          <text x="-26" y="4" class="font-mono" fill="#f0f6fc">Agentic AI</text>
+        </g>
+      </g>
+
+      <!-- Node 2: PyTorch at (125, -72) -->
+      <g transform="translate(125, -72)">
+        <g class="counter-ccw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/>
+          <rect x="-42" y="-14" width="84" height="28" rx="14" class="chip-orbit" stroke="#ee4c2c"/>
+          <circle cx="-28" cy="0" r="3" fill="#ee4c2c"/>
+          <text x="-18" y="4" class="font-mono" fill="#f0f6fc">PyTorch</text>
+        </g>
+      </g>
+
+      <!-- Node 3: Docker at (125, 72) -->
+      <g transform="translate(125, 72)">
+        <g class="counter-ccw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/>
+          <rect x="-40" y="-14" width="80" height="28" rx="14" class="chip-orbit" stroke="#3b82f6"/>
+          <circle cx="-26" cy="0" r="3" fill="#3b82f6"/>
+          <text x="-16" y="4" class="font-mono" fill="#f0f6fc">Docker</text>
+        </g>
+      </g>
+
+      <!-- Node 4: Kubernetes at (0, 145) -->
+      <g transform="translate(0, 145)">
+        <g class="counter-ccw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/>
+          <rect x="-52" y="-14" width="104" height="28" rx="14" class="chip-orbit" stroke="#3b82f6"/>
+          <circle cx="-38" cy="0" r="3" fill="#3b82f6"/>
+          <text x="-28" y="4" class="font-mono" fill="#f0f6fc">Kubernetes</text>
+        </g>
+      </g>
+
+      <!-- Node 5: Supabase at (-125, 72) -->
+      <g transform="translate(-125, 72)">
+        <g class="counter-ccw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/>
+          <rect x="-45" y="-14" width="90" height="28" rx="14" class="chip-orbit" stroke="#10b981"/>
+          <circle cx="-31" cy="0" r="3" fill="#10b981"/>
+          <text x="-21" y="4" class="font-mono" fill="#f0f6fc">Supabase</text>
+        </g>
+      </g>
+
+      <!-- Node 6: Node.js at (-125, -72) -->
+      <g transform="translate(-125, -72)">
+        <g class="counter-ccw">
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/>
+          <rect x="-42" y="-14" width="84" height="28" rx="14" class="chip-orbit" stroke="#10b981"/>
+          <circle cx="-28" cy="0" r="3" fill="#10b981"/>
+          <text x="-18" y="4" class="font-mono" fill="#f0f6fc">Node.js</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- ================= CENTRAL CORE "{ AI }" ================= -->
+    <circle cx="0" cy="0" r="38" fill="#0d1117" stroke="#00d4ff" stroke-width="2" filter="url(#glowFilt)">
+      <animate attributeName="stroke" values="#00d4ff;#a855f7;#3b82f6;#00d4ff" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="32" fill="#161b22"/>
+    <text x="0" y="6" text-anchor="middle" class="core-text">
+      <tspan fill="#00d4ff">{</tspan> AI <tspan fill="#a855f7">}</tspan>
+    </text>
+  </g>
+</svg>

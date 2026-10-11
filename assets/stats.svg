@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 230" width="100%" height="100%">
+  <defs>
+    <linearGradient id="statBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+
+    <linearGradient id="statCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0f141c"/>
+    </linearGradient>
+
+    <filter id="numGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .stat-title { font-size: 14px; font-weight: 700; fill: #f0f6fc; }
+    .stat-label { font-size: 11px; fill: #8b949e; font-family: 'SF Mono', monospace; }
+    .stat-val { font-size: 24px; font-weight: 800; font-family: 'SF Mono', monospace; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .anim-grow { animation: none !important; }
+    }
+  </style>
+
+  <!-- Container -->
+  <rect x="3" y="3" width="844" height="224" rx="12" fill="url(#statBg)" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Left Column: Real-time Stats Grid -->
+  <g transform="translate(25, 20)">
+    <text x="0" y="16" class="font-sans stat-title">📊 Real-Time GitHub Metrics</text>
+
+    <!-- Card 1: Repos -->
+    <g transform="translate(0, 32)">
+      <rect width="185" height="68" rx="8" fill="url(#statCardBg)" stroke="#30363d" stroke-width="1"/>
+      <text x="16" y="24" class="stat-label">PUBLIC REPOSITORIES</text>
+      <text x="16" y="54" fill="#00d4ff" class="stat-val" filter="url(#numGlow)">8</text>
+      <text x="165" y="52" text-anchor="end" font-size="18">📦</text>
+    </g>
+
+    <!-- Card 2: Stars -->
+    <g transform="translate(195, 32)">
+      <rect width="185" height="68" rx="8" fill="url(#statCardBg)" stroke="#30363d" stroke-width="1"/>
+      <text x="16" y="24" class="stat-label">TOTAL REPO STARS</text>
+      <text x="16" y="54" fill="#ffbd2e" class="stat-val" filter="url(#numGlow)">0</text>
+      <text x="165" y="52" text-anchor="end" font-size="18">⭐</text>
+    </g>
+
+    <!-- Card 3: Forks -->
+    <g transform="translate(0, 110)">
+      <rect width="185" height="68" rx="8" fill="url(#statCardBg)" stroke="#30363d" stroke-width="1"/>
+      <text x="16" y="24" class="stat-label">TOTAL REPO FORKS</text>
+      <text x="16" y="54" fill="#3b82f6" class="stat-val" filter="url(#numGlow)">0</text>
+      <text x="165" y="52" text-anchor="end" font-size="18">🍴</text>
+    </g>
+
+    <!-- Card 4: Followers -->
+    <g transform="translate(195, 110)">
+      <rect width="185" height="68" rx="8" fill="url(#statCardBg)" stroke="#30363d" stroke-width="1"/>
+      <text x="16" y="24" class="stat-label">FOLLOWERS</text>
+      <text x="16" y="54" fill="#a855f7" class="stat-val" filter="url(#numGlow)">0</text>
+      <text x="165" y="52" text-anchor="end" font-size="18">👥</text>
+    </g>
+  </g>
+
+  <!-- Vertical Divider -->
+  <line x1="430" y1="20" x2="430" y2="210" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Right Column: Top Languages Breakdown -->
+  <g transform="translate(455, 20)">
+    <text x="0" y="16" class="font-sans stat-title">🌐 Top Languages Distribution</text>
+
+    <!-- Multi-Segment Distribution Bar -->
+    <g transform="translate(0, 40)">
+      <rect width="365" height="10" rx="3" fill="#161b22"/>
+      
+        <rect x="0" y="0" width="288" height="10" rx="3" fill="#3178c6">
+          <animate attributeName="width" values="0;288" dur="1.2s" begin="0.20s" fill="freeze"/>
+        </rect>
+        
+
+        <rect x="290" y="0" width="72" height="10" rx="3" fill="#e34c26">
+          <animate attributeName="width" values="0;72" dur="1.2s" begin="0.35s" fill="freeze"/>
+        </rect>
+        
+    </g>
+
+    <!-- Language Legends -->
+    <g transform="translate(-40, -60)">
+      
+        <g transform="translate(40, 145)">
+          <circle cx="6" cy="6" r="4" fill="#3178c6"/>
+          <text x="18" y="10" class="font-mono" font-size="11.5" fill="#f0f6fc">TypeScript</text>
+          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">80.0%</text>
+        </g>
+        
+
+        <g transform="translate(220, 145)">
+          <circle cx="6" cy="6" r="4" fill="#e34c26"/>
+          <text x="18" y="10" class="font-mono" font-size="11.5" fill="#f0f6fc">HTML</text>
+          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">20.0%</text>
+        </g>
+        
+    </g>
+  </g>
+</svg>

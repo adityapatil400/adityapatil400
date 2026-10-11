@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%" height="100%">
+  <defs>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </linearGradient>
+
+    <linearGradient id="aboutBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .font-mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .heading { font-size: 15px; font-weight: 700; fill: #f0f6fc; }
+    .body-text { font-size: 13.5px; fill: #c9d1d9; line-height: 1.5; }
+    .accent-cyan { fill: #00d4ff; font-weight: 600; }
+    .accent-purple { fill: #a855f7; font-weight: 600; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .reveal-1, .reveal-2, .reveal-3, .reveal-4 { opacity: 1 !important; transform: none !important; }
+    }
+  </style>
+
+  <!-- Panel Box -->
+  <rect x="3" y="3" width="844" height="174" rx="12" fill="url(#aboutBg)" stroke="url(#aboutBorder)" stroke-width="1.2"/>
+
+  <!-- Left Accent Bar -->
+  <rect x="3" y="15" width="4" height="150" rx="2" fill="#00d4ff" filter="url(#subtleGlow)"/>
+
+  <!-- Line 1 (Stagger 1) -->
+  <g class="reveal-1">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.2s" fill="freeze"/>
+    <text x="28" y="38" class="font-sans heading">
+      Hi, I'm <tspan class="accent-cyan">Aditya Patil</tspan> — Engineering Intelligent Software &amp; Full-Stack Systems
+    </text>
+  </g>
+
+  <!-- Line 2 (Stagger 2) -->
+  <g class="reveal-2">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.5s" fill="freeze"/>
+    <text x="28" y="66" class="font-sans body-text">
+      I build modern applications at the intersection of <tspan fill="#ffffff" font-weight="600">AI, automation, and full-stack web engineering</tspan>,
+    </text>
+    <text x="28" y="88" class="font-sans body-text">
+      with a core focus on solving real-world challenges through clean architecture and scalable code.
+    </text>
+  </g>
+
+  <!-- Line 3: Badges / Focus Highlights (Stagger 3) -->
+  <g class="reveal-3" transform="translate(28, 116)">
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.8s" fill="freeze"/>
+    
+    <!-- Highlight Pill 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="210" height="32" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="16" cy="16" r="3.5" fill="#00d4ff"/>
+      <text x="28" y="20" class="font-mono" font-size="11" fill="#f0f6fc">Agentic &amp; Generative AI</text>
+    </g>
+
+    <!-- Highlight Pill 2 -->
+    <g transform="translate(225, 0)">
+      <rect width="225" height="32" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="16" cy="16" r="3.5" fill="#3b82f6"/>
+      <text x="28" y="20" class="font-mono" font-size="11" fill="#f0f6fc">MERN &amp; .NET Architectures</text>
+    </g>
+
+    <!-- Highlight Pill 3 -->
+    <g transform="translate(465, 0)">
+      <rect width="230" height="32" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="16" cy="16" r="3.5" fill="#a855f7"/>
+      <text x="28" y="20" class="font-mono" font-size="11" fill="#f0f6fc">Automation &amp; System Design</text>
+    </g>
+  </g>
+</svg>
