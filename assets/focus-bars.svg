@@ -75,9 +75,9 @@
     </rect>
   </g>
 
-  <!-- Row 4: Python Automation & Developer Tools -->
+  <!-- Row 4: Python -->
   <g transform="translate(25, 170)">
-    <text x="0" y="16" class="font-sans focus-title">⚙️ Python &amp;</text>
+    <text x="0" y="16" class="font-sans focus-title">⚙️ Python</text>
     <text x="800" y="16" text-anchor="end" fill="#3b82f6" class="stage-badge">[ BUILDING CLI &amp; AST TOOLS ]</text>
     <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
     <rect x="0" y="24" width="720" height="8" rx="4" fill="url(#accentGrad)" class="bar-fill" filter="url(#barGlow)">
