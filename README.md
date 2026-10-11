@@ -136,11 +136,17 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
 <div align="center">
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</picture>
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
+</div>
+
 
 <br/><br/>
 
