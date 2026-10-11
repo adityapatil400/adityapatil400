@@ -140,7 +140,7 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
 ## 🐍 GitHub Contribution Snake
 
 
-## 🐍 GitHub Contribution Snake
+
 
 ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
