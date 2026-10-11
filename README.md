@@ -1,8 +1,5 @@
-
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Aditya%20Patil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Agentic%20AI%20Explorer&descSize=17&descAlignY=62&descAlign=50" width="100%" alt="Aditya Patil Banner" />
 
 <!-- ANIMATED TYPING HEADLINE -->
 <a href="https://github.com/adityapatil400">
