@@ -94,24 +94,6 @@ Hi, I'm **Aditya Patil**. I build intelligent applications at the intersection o
 
 <br/>
 
-<!-- SECTION: FEATURED PROJECTS -->
-<img src="assets/divider.svg" width="100%" alt="Section Divider" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&vCenter=true&repeat=false&width=450&height=36&lines=%3E_Featured+Projects" alt=">_ Featured Projects" />
-
-<a href="https://github.com/adityapatil400?tab=repositories">
-  <img src="assets/project-leakguard.svg" width="100%" alt="LeakGuard Static Analyzer Project" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/adityapatil400?tab=repositories">
-  <img src="assets/project-electroflow.svg" width="100%" alt="ElectroFlow / E-ScrapZone Project" />
-</a>
-
-> *Note: Active project repositories, source code, and ongoing builds are accessible directly on my [GitHub Repositories](https://github.com/adityapatil400?tab=repositories) page.*
-
-<br/>
 
 <!-- SECTION: GITHUB ANALYTICS -->
 <img src="assets/divider.svg" width="100%" alt="Section Divider" />
