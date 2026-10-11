@@ -130,48 +130,6 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ LeakGuard</h3>
-      <p><b>AST-based Python Static Analyzer</b></p>
-      <p>A static code analysis engine designed to detect unclosed resources, memory leaks, and inefficient handling patterns in Python codebases before runtime execution.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/AST-00D4FF?style=flat-square" alt="AST" />
-        <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="PyTest" />
-        <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD" />
-      </p>
-      <p>
-        <a href="https://github.com/adityapatil400?tab=repositories"><b>Explore Repositories ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>♻️ ElectroFlow / E-ScrapZone</h3>
-      <p><b>Electronics Reuse & Refurbished Platform</b></p>
-      <p>A full-stack circular economy platform facilitating electronics donation, device refurbishment lifecycle tracking, and verified e-waste disposal.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      </p>
-      <p>
-        <a href="https://github.com/adityapatil400?tab=repositories"><b>Explore Repositories ➔</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/adityapatil400?tab=repositories">
-    <b>🔍 View all open-source repositories and code on GitHub ➔</b>
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Analytics
 
