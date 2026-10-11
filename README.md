@@ -126,13 +126,7 @@ Hi, I'm **Aditya Patil**. I build intelligent applications at the intersection o
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
 <br/><br/>
-
-<!-- PAC-MAN CONTRIBUTION GRAPH -->
-<img src="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Graph" onerror="this.style.display='none'" />
-
-<br/>
 
 <!-- ANIMATED REAL-TIME STATS CARD -->
 <img src="assets/stats.svg" width="100%" alt="Real-time Animated GitHub Stats" />
