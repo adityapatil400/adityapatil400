@@ -1,192 +1,165 @@
 <div align="center">
 
-<!-- RACING HERO BANNER -->
-```
-   🏁 ═══════════════════════════════════════════════════════════════════════ 🏁
-       ⛰️                  ⛰️              ⛰️                    ⛰️
-               ☀️                 ⛰️                 🚩 FINISH
-        /\                 /\                 /\
-       /  \    /\         /  \     /\        /  \         /\
-      /    \  /  \       /    \   /  \      /    \       /  \
-     /      \/    \  🏎️💨/      \ /    \    /      \     /    \
-   ═══════════════════════════════════════════════════════════════════════════
-```
+<!-- ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Aditya%20Patil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Agentic%20AI%20Explorer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Aditya Patil Banner" />
 
-# 🏎️ ADITYA PATIL
-### 🏁 **Full-Stack Developer | AI/ML Enthusiast | Agentic AI Explorer** 🏁
+<!-- ANIMATED TYPING HEADLINE -->
+<a href="https://github.com/adityapatil400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+Explorer;Building+intelligent+apps+that+solve+real+problems" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <em>⛰️ Leveling up through code, creativity, and continuous learning — one steep hill at a time.</em>
+  <em>Engineering practical, scalable, and intelligent software at the intersection of modern web systems and AI.</em>
 </p>
 
-<!-- DRIVER HUD BADGES -->
-[![Driver License](https://img.shields.io/badge/DRIVER-ADITYA_PATIL-FF9F1C?style=for-the-badge&logo=speedtest&logoColor=white)](https://github.com/adityapatil400)
-[![Fuel Level](https://img.shields.io/badge/FUEL-100%25_NITRO-2EC4B6?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/adityapatil400)
-[![LinkedIn Pit](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityapatil123)
-[![GitHub Garage](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityapatil400)
-[![Odometer Views](https://komarev.com/ghpvc/?username=adityapatil400&color=e71d36&style=for-the-badge&label=KM+DRIVEN)](https://github.com/adityapatil400)
+<!-- SOCIAL & PROFILE BADGES -->
+<p align="center">
+  <a href="https://linkedin.com/in/adityapatil123">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/adityapatil400">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/adityapatil400?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-3B82F6?style=flat-square&logo=git&logoColor=white" alt="Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/adityapatil400">
+    <img src="https://komarev.com/ghpvc/?username=adityapatil400&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-</div>
+### 👨‍💻 About Me
 
-## 🎮 Player Profile
-
-```yaml
-Driver: Aditya Patil
-Current Stage: B.Tech Computer Science & Engineering (Class of 2028)
-Vehicle: Full-Stack AI Rig
-Tuning: Agentic AI ⚡ Generative AI ⚡ MERN Stack ⚡ .NET Core
-Driving Objective: Build practical, intelligent applications that conquer real-world terrain.
-```
-
-> Hi, I'm **Aditya Patil**. I build intelligent applications at the intersection of AI, automation, and full-stack development, with a focus on solving real-world problems through technology. I'm particularly interested in **Agentic AI, Generative AI, AI/ML, automation, MERN Stack, .NET development, and AI-powered applications**. I enjoy exploring emerging technologies, building practical projects, and turning innovative ideas into scalable solutions.
-
----
-
-## 🚩 Education Checkpoints
-
-<div align="center">
-
-```
-  START 🏁 ─────────▶ ⛳ CHECKPOINT 1 ─────────▶ 🏎️ CHECKPOINT 2 (EN ROUTE) ─────────▶ 🏆 FINISH (2028)
-```
-
-</div>
+Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection of AI, automation, and full-stack development, with a focus on solving real-world problems through technology. I'm particularly interested in Agentic AI, Generative AI, AI/ML, automation, MERN Stack, .NET development, and AI-powered applications. I enjoy exploring emerging technologies, building practical projects, and turning innovative ideas into scalable solutions.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏁 Checkpoint 1 — Foundation Built</h3>
-      <p><b>📜 Diploma in Computer Engineering</b></p>
-      <p>🏛️ <i>Latthe Education Society's Polytechnic, Sangli</i></p>
-      <p>🟢 <b>Status:</b> <code>COMPLETED</code></p>
-      <p>Key Milestones: Core programming fundamentals, database design, operating systems, and object-oriented software engineering.</p>
+    <td width="50%">
+      <b>📍 Location:</b> India<br/>
+      <b>🎓 Degree:</b> B.Tech in CSE (Expected 2028)<br/>
+      <b>🌱 Learning:</b> Agentic AI & Cloud Architecture
     </td>
-    <td width="50%" valign="top">
-      <h3>🏎️💨 Checkpoint 2 — Current Climb</h3>
-      <p><b>🎓 B.Tech in Computer Science & Engineering</b></p>
-      <p>🏛️ <i>D. Y. Patil Agriculture & Technical University, Talsande</i></p>
-      <p>🟡 <b>Status:</b> <code>CURRENTLY PURSUING (Expected 2028)</code></p>
-      <p>Active Focus: Agentic AI systems, scalable full-stack architecture, machine learning models, and cloud-native systems.</p>
+    <td width="50%">
+      <b>⚡ Tech Focus:</b> MERN Stack & .NET Core<br/>
+      <b>🧠 AI Interests:</b> LLMs & Autonomous Agents<br/>
+      <b>💼 Status:</b> Open to internships & collaborations
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ The Garage — Tech Stack & Inventory
+### 🎓 Education
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 B.Tech in Computer Science & Engineering</h4>
+      <p>🏛️ <b>D. Y. Patil Agriculture & Technical University, Talsande</b><br/>
+      📅 <b>Timeline:</b> Expected 2028<br/>
+      <img src="https://img.shields.io/badge/Status-Currently_Pursuing-00D4FF?style=flat-square" alt="Currently Pursuing" /></p>
+      <p>Focusing on advanced system architecture, machine learning foundations, data structures, and production web engineering.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📜 Diploma in Computer Engineering</h4>
+      <p>🏛️ <b>Latthe Education Society's Polytechnic, Sangli</b><br/>
+      📅 <b>Timeline:</b> Completed<br/>
+      <img src="https://img.shields.io/badge/Status-Completed-3B82F6?style=flat-square" alt="Completed" /></p>
+      <p>Built foundational mastery in core programming, relational database systems, operating systems, and computer networks.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔭 Current Focus
+
+*Currently exploring and building with these technologies:*
+
+- 🤖 **Agentic AI & AI Agents** — Autonomous workflow pipelines, agent orchestration, and tool-calling LLMs.
+- 🧠 **Generative AI & LLM Applications** — Prompt engineering, vector embeddings, fine-tuning, and RAG architectures.
+- 🌐 **MERN & .NET Full-Stack** — High-performance RESTful APIs, distributed microservices, and reactive user interfaces.
+- ⚙️ **Python Automation & Developer Tools** — Static code analysis via AST, CLI utilities, and developer workflow enhancements.
+- ☁️ **Cloud, System Design & Containers** — Containerization with Docker, Kubernetes orchestration, and cloud infrastructure.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### 🏎️ Engine & Core Drive (Languages)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🎨 Aerodynamics & Body Kit (Frontend)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Transmission & Turbocharger (Backend)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🛢️ Fuel Tank & Storage (Databases)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🚀 Nitro Boost & AI Intelligence (AI/ML & Data)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Exploration-7928CA?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-LLMs-FF0080?style=for-the-badge&logo=google&logoColor=white)
-
-### ☁️ Suspension & Telemetry (Cloud & DevOps)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🔧 Pit Crew Toolbox (Tools & IDEs)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="25%"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,java,js,c,cpp,cs&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,threejs&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,flask&theme=dark" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase&theme=dark" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>AI & ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="AI/ML" /></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions&theme=dark" alt="Cloud & DevOps" /></td>
+  </tr>
+  <tr>
+    <td width="25%"><b>Developer Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🏁 Race Track — Featured Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Track 1: LeakGuard</h3>
+      <h3>🛡️ LeakGuard</h3>
       <p><b>AST-based Python Static Analyzer</b></p>
-      <p>Engineered to detect unclosed resources, memory leaks, and inefficient handling patterns in Python codebases before runtime execution.</p>
+      <p>A static code analysis engine designed to detect unclosed resources, memory leaks, and inefficient handling patterns in Python codebases before runtime execution.</p>
       <p>
-        <code>Python</code> <code>AST</code> <code>PyTest</code> <code>CLI Tooling</code> <code>CI Workflows</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AST-00D4FF?style=flat-square" alt="AST" />
+        <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="PyTest" />
+        <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD" />
       </p>
       <p>
-        <a href="https://github.com/adityapatil400/LeakGuard"><b>Inspect Vehicle Repo 🏎️ →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>♻️ Track 2: ElectroFlow / E-ScrapZone</h3>
-      <p><b>Electronics Reuse & Refurbished Marketplace</b></p>
-      <p>Full-stack circular economy platform for electronics donation, lifecycle tracking, and verified e-waste disposal with dual client and admin portals.</p>
-      <p>
-        <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>React</code> <code>E-Commerce</code>
-      </p>
-      <p>
-        <a href="https://github.com/adityapatil400/ElectroFlow"><b>Inspect Vehicle Repo 🏎️ →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 Track 3: AI Content Scanner</h3>
-      <p><b>Intelligent Content & Text Analysis System</b></p>
-      <p>AI text and pattern scanner evaluating content originality, structural indicators, and synthetic language markers.</p>
-      <p>
-        <code>Python</code> <code>NLP</code> <code>FastAPI</code> <code>React</code>
-      </p>
-      <p>
-        <a href="https://github.com/adityapatil400/AI-Content-Scanner"><b>Inspect Vehicle Repo 🏎️ →</b></a>
+        <a href="https://github.com/adityapatil400?tab=repositories"><b>Explore Repositories ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Track 4: Stock Exchange Hub</h3>
-      <p><b>Market Analytics & Financial Telemetry</b></p>
-      <p>Interactive dashboard providing real-time financial tracking, historical indicators, and portfolio intelligence.</p>
+      <h3>♻️ ElectroFlow / E-ScrapZone</h3>
+      <p><b>Electronics Reuse & Refurbished Platform</b></p>
+      <p>A full-stack circular economy platform facilitating electronics donation, device refurbishment lifecycle tracking, and verified e-waste disposal.</p>
       <p>
-        <code>JavaScript</code> <code>REST APIs</code> <code>Financial Analytics</code>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       </p>
       <p>
-        <a href="https://github.com/adityapatil400/stock-exchange-hub1"><b>Inspect Vehicle Repo 🏎️ →</b></a>
+        <a href="https://github.com/adityapatil400?tab=repositories"><b>Explore Repositories ➔</b></a>
       </p>
     </td>
   </tr>
@@ -194,28 +167,37 @@ Driving Objective: Build practical, intelligent applications that conquer real-w
 
 <p align="center">
   <a href="https://github.com/adityapatil400?tab=repositories">
-    <b>🏁 Explore All Tracks & Repositories on GitHub →</b>
+    <b>🔍 View all open-source repositories and code on GitHub ➔</b>
   </a>
 </p>
 
 ---
 
-## 📊 Race Performance — Dashboard Telemetry
+### 📊 GitHub Analytics
 
 <div align="center">
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/adityapatil400/adityapatil400/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</picture>
+
+<br/><br/>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=adityapatil400&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&icon_color=f8d847&text_color=a8a8b7" alt="Race Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=adityapatil400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=3b82f6&text_color=c9d1d9" alt="Aditya's GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil400&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&text_color=a8a8b7" alt="Top Fuel Types" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil400&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil400&theme=radical&hide_border=true&background=141321&ring=fe428e&fire=f8d847&currStreakLabel=fe428e" alt="Lap Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapatil400&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -224,37 +206,29 @@ Driving Objective: Build practical, intelligent applications that conquer real-w
 
 ---
 
-## ⛽ Pit Stop — Socials & Collaboration
+### 🤝 Connect With Me
 
-Looking for an extra co-driver, full-stack engineer, or AI builder? Let's connect at the pit stop:
+I'm always excited to discuss **Agentic AI, full-stack systems, open-source projects**, and technical internship opportunities.
 
 <p align="center">
   <a href="https://linkedin.com/in/adityapatil123">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Patil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/adityapatil400">
-    <img src="https://img.shields.io/badge/GitHub-adityapatil400-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
-## 🏆 Finish Line
-
 <div align="center">
 
-```
-🏁 ═══════════════════════════════════════════════════════════════════════════ 🏁
-```
-
-> *"Every line of code is another checkpoint. Keep learning, keep building, and never stop climbing. 🏎️"*
-
-<br>
+> *"Building, learning, and exploring the future of intelligent software. 🚀"*
 
 <p align="center">
-  <b>Thanks for stopping by my racing profile! 🏁</b><br>
-  <sub>Designed with speed, precision, and passion • © 2026 Aditya Patil</sub>
+  <sub>Thank you for visiting! • Designed with precision for Aditya Patil</sub>
 </p>
+
+<!-- ANIMATED WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" alt="Wave Footer" />
 
 </div>
