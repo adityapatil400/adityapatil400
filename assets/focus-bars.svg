@@ -51,7 +51,7 @@
     <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
     <!-- Active Bar -->
     <rect x="0" y="24" width="700" height="8" rx="4" fill="url(#cyanGrad)" class="bar-fill" filter="url(#barGlow)">
-      <animate attributeName="width" values="0;700" dur="1.2s" begin="0.1s" fill="freeze"/>
+      <animate attributeName="width" values="0;400" dur="1.2s" begin="0.1s" fill="freeze"/>
     </rect>
   </g>
 
@@ -61,7 +61,7 @@
     <text x="800" y="16" text-anchor="end" fill="#a855f7" class="stage-badge">[ BUILDING &amp; EXPERIMENTING ]</text>
     <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
     <rect x="0" y="24" width="670" height="8" rx="4" fill="url(#purpleGrad)" class="bar-fill" filter="url(#barGlow)">
-      <animate attributeName="width" values="0;670" dur="1.2s" begin="0.3s" fill="freeze"/>
+      <animate attributeName="width" values="0;470" dur="1.2s" begin="0.3s" fill="freeze"/>
     </rect>
   </g>
 
@@ -81,7 +81,7 @@
     <text x="800" y="16" text-anchor="end" fill="#3b82f6" class="stage-badge">[ BUILDING CLI &amp; AST TOOLS ]</text>
     <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
     <rect x="0" y="24" width="720" height="8" rx="4" fill="url(#accentGrad)" class="bar-fill" filter="url(#barGlow)">
-      <animate attributeName="width" values="0;720" dur="1.2s" begin="0.7s" fill="freeze"/>
+      <animate attributeName="width" values="0;620" dur="1.2s" begin="0.7s" fill="freeze"/>
     </rect>
   </g>
 
@@ -91,7 +91,7 @@
     <text x="800" y="16" text-anchor="end" fill="#a855f7" class="stage-badge">[ LEARNING &amp; IMPLEMENTING ]</text>
     <rect x="0" y="24" width="800" height="8" rx="4" class="track-bg"/>
     <rect x="0" y="24" width="620" height="8" rx="4" fill="url(#purpleGrad)" class="bar-fill" filter="url(#barGlow)">
-      <animate attributeName="width" values="0;620" dur="1.2s" begin="0.9s" fill="freeze"/>
+      <animate attributeName="width" values="0;320" dur="1.2s" begin="0.9s" fill="freeze"/>
     </rect>
   </g>
 </svg>
