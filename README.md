@@ -1,11 +1,16 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Aditya%20Patil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Agentic%20AI%20Explorer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Aditya Patil Banner" />
+<!-- ANIMATED WAVE HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Aditya%20Patil&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Agentic%20AI%20Explorer&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Aditya Patil Header" />
+
+<!-- ANIMATED HERO BANNER -->
+<img src="./assets/hero.svg" width="100%" alt="Hero Banner" />
+
+<br/><br/>
 
 <!-- ANIMATED TYPING HEADLINE -->
 <a href="https://github.com/adityapatil400">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&height=45&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+Explorer;Building+intelligent+apps+that+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&height=45&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+Explorer;Building+intelligent+apps+that+solve+real+problems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -31,9 +36,14 @@
   </a>
 </p>
 
-</div>
+<!-- ANIMATED TECH MARQUEE -->
+<img src="./assets/marquee.svg" width="100%" alt="Tech Marquee" />
 
----
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
+
+</div>
 
 ### 👨‍💻 About Me
 
@@ -44,25 +54,36 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
     <td width="50%">
       <b>📍 Location:</b> India<br/>
       <b>🎓 Degree:</b> B.Tech in CSE (Expected 2028)<br/>
-      <b>🌱 Learning:</b> Agentic AI & Cloud Architecture
+      <b>🌱 Learning:</b> Agentic AI &amp; Cloud Architecture
     </td>
     <td width="50%">
-      <b>⚡ Tech Focus:</b> MERN Stack & .NET Core<br/>
-      <b>🧠 AI Interests:</b> LLMs & Autonomous Agents<br/>
-      <b>💼 Status:</b> Open to internships & collaborations
+      <b>⚡ Tech Focus:</b> MERN Stack &amp; .NET Core<br/>
+      <b>🧠 AI Interests:</b> LLMs &amp; Autonomous Agents<br/>
+      <b>💼 Status:</b> Open to internships &amp; collaborations
     </td>
   </tr>
 </table>
 
----
+<!-- ANIMATED TERMINAL CODE WINDOW -->
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Developer Terminal" />
+</p>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Divider" />
+</div>
 
 ### 🎓 Education
+
+<p align="center">
+  <img src="./assets/education.svg" width="100%" alt="Education Timeline" />
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 B.Tech in Computer Science & Engineering</h4>
-      <p>🏛️ <b>D. Y. Patil Agriculture & Technical University, Talsande</b><br/>
+      <h4>🎓 B.Tech in Computer Science &amp; Engineering</h4>
+      <p>🏛️ <b>D. Y. Patil Agriculture &amp; Technical University, Talsande</b><br/>
       📅 <b>Timeline:</b> Expected 2028<br/>
       <img src="https://img.shields.io/badge/Status-Currently_Pursuing-00D4FF?style=flat-square" alt="Currently Pursuing" /></p>
       <p>Focusing on advanced system architecture, machine learning foundations, data structures, and production web engineering.</p>
@@ -77,19 +98,27 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Divider" />
+</div>
 
 ### 🔭 Current Focus
 
-*Currently exploring and building with these technologies:*
+*Active exploration and hands-on learning:*
 
-- 🤖 **Agentic AI & AI Agents** — Autonomous workflow pipelines, agent orchestration, and tool-calling LLMs.
-- 🧠 **Generative AI & LLM Applications** — Prompt engineering, vector embeddings, fine-tuning, and RAG architectures.
-- 🌐 **MERN & .NET Full-Stack** — High-performance RESTful APIs, distributed microservices, and reactive user interfaces.
-- ⚙️ **Python Automation & Developer Tools** — Static code analysis via AST, CLI utilities, and developer workflow enhancements.
-- ☁️ **Cloud, System Design & Containers** — Containerization with Docker, Kubernetes orchestration, and cloud infrastructure.
+<p align="center">
+  <img src="./assets/focus-bars.svg" width="100%" alt="Learning Stages" />
+</p>
 
----
+- 🤖 **Agentic AI &amp; AI Agents** — Autonomous workflow pipelines, multi-agent orchestration, and tool-calling LLMs.
+- 🧠 **Generative AI &amp; LLM Applications** — Prompt engineering, vector embeddings, fine-tuning, and RAG architectures.
+- 🌐 **MERN &amp; .NET Full-Stack** — High-performance RESTful APIs, distributed services, and responsive user interfaces.
+- ⚙️ **Python Automation &amp; Developer Tools** — Static code analysis via AST, CLI utilities, and developer workflow automation.
+- ☁️ **Cloud, System Design &amp; Containers** — Containerization with Docker, Kubernetes orchestration, and cloud infrastructure.
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Divider" />
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -113,12 +142,12 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
     <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase&theme=dark" alt="Databases" /></td>
   </tr>
   <tr>
-    <td width="25%"><b>AI & ML</b></td>
+    <td width="25%"><b>AI &amp; ML</b></td>
     <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="AI/ML" /></td>
   </tr>
   <tr>
-    <td width="25%"><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions&theme=dark" alt="Cloud & DevOps" /></td>
+    <td width="25%"><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions&theme=dark" alt="Cloud &amp; DevOps" /></td>
   </tr>
   <tr>
     <td width="25%"><b>Developer Tools</b></td>
@@ -126,52 +155,38 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
   </tr>
 </table>
 
-</div>
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
----
+</div>
 
 ### 🚀 Featured Projects
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ LeakGuard</h3>
-      <p><b>AST-based Python Static Analyzer</b></p>
-      <p>A static code analysis engine designed to detect unclosed resources, memory leaks, and inefficient handling patterns in Python codebases before runtime execution.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/AST-00D4FF?style=flat-square" alt="AST" />
-        <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="PyTest" />
-        <img src="https://img.shields.io/badge/CI%2FCD-3B82F6?style=flat-square" alt="CI/CD" />
-      </p>
-      <p>
-        <a href="https://github.com/adityapatil400?tab=repositories"><b>Explore Repositories ➔</b></a>
-      </p>
+    <td width="50%" align="center">
+      <a href="https://github.com/adityapatil400?tab=repositories">
+        <img src="./assets/project-leakguard.svg" width="100%" alt="LeakGuard Project" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>♻️ ElectroFlow / E-ScrapZone</h3>
-      <p><b>Electronics Reuse & Refurbished Platform</b></p>
-      <p>A full-stack circular economy platform facilitating electronics donation, device refurbishment lifecycle tracking, and verified e-waste disposal.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      </p>
-      <p>
-        <a href="https://github.com/adityapatil400?tab=repositories"><b>Explore Repositories ➔</b></a>
-      </p>
+    <td width="50%" align="center">
+      <a href="https://github.com/adityapatil400?tab=repositories">
+        <img src="./assets/project-electroflow.svg" width="100%" alt="ElectroFlow Project" />
+      </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/adityapatil400?tab=repositories">
-    <b>🔍 View all open-source repositories and code on GitHub ➔</b>
+    <b>🔍 Explore all open-source repositories on GitHub ➔</b>
   </a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
+
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -202,13 +217,13 @@ Hi, I'm **Aditya Patil**! I build intelligent applications at the intersection o
   </tr>
 </table>
 
-</div>
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
 
----
+</div>
 
 ### 🤝 Connect With Me
 
-I'm always excited to discuss **Agentic AI, full-stack systems, open-source projects**, and technical internship opportunities.
+I'm always excited to discuss **Agentic AI, full-stack systems, open-source software**, and engineering opportunities.
 
 <p align="center">
   <a href="https://linkedin.com/in/adityapatil123">
@@ -222,11 +237,8 @@ I'm always excited to discuss **Agentic AI, full-stack systems, open-source proj
 
 <div align="center">
 
-> *"Building, learning, and exploring the future of intelligent software. 🚀"*
-
-<p align="center">
-  <sub>Thank you for visiting! • Designed with precision for Aditya Patil</sub>
-</p>
+<!-- ANIMATED FOOTER SCENE -->
+<img src="./assets/footer.svg" width="100%" alt="Footer Scene" />
 
 <!-- ANIMATED WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" alt="Wave Footer" />
