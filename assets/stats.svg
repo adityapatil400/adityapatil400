@@ -39,7 +39,7 @@
     <g transform="translate(0, 32)">
       <rect width="185" height="68" rx="8" fill="url(#statCardBg)" stroke="#30363d" stroke-width="1"/>
       <text x="16" y="24" class="stat-label">PUBLIC REPOSITORIES</text>
-      <text x="16" y="54" fill="#00d4ff" class="stat-val" filter="url(#numGlow)">9</text>
+      <text x="16" y="54" fill="#00d4ff" class="stat-val" filter="url(#numGlow)">10</text>
       <text x="165" y="52" text-anchor="end" font-size="18">📦</text>
     </g>
 
