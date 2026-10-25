@@ -39,7 +39,7 @@
     <g transform="translate(0, 32)">
       <rect width="185" height="68" rx="8" fill="url(#statCardBg)" stroke="#30363d" stroke-width="1"/>
       <text x="16" y="24" class="stat-label">PUBLIC REPOSITORIES</text>
-      <text x="16" y="54" fill="#00d4ff" class="stat-val" filter="url(#numGlow)">10</text>
+      <text x="16" y="54" fill="#00d4ff" class="stat-val" filter="url(#numGlow)">11</text>
       <text x="165" y="52" text-anchor="end" font-size="18">📦</text>
     </g>
 
@@ -79,18 +79,18 @@
     <g transform="translate(0, 40)">
       <rect width="365" height="10" rx="3" fill="#161b22"/>
       
-        <rect x="0" y="0" width="240" height="10" rx="3" fill="#3178c6">
-          <animate attributeName="width" values="0;240" dur="1.2s" begin="0.20s" fill="freeze"/>
+        <rect x="0" y="0" width="205" height="10" rx="3" fill="#3178c6">
+          <animate attributeName="width" values="0;205" dur="1.2s" begin="0.20s" fill="freeze"/>
         </rect>
         
 
-        <rect x="242" y="0" width="60" height="10" rx="3" fill="#3572A5">
-          <animate attributeName="width" values="0;60" dur="1.2s" begin="0.35s" fill="freeze"/>
+        <rect x="207" y="0" width="102" height="10" rx="3" fill="#3572A5">
+          <animate attributeName="width" values="0;102" dur="1.2s" begin="0.35s" fill="freeze"/>
         </rect>
         
 
-        <rect x="304" y="0" width="60" height="10" rx="3" fill="#e34c26">
-          <animate attributeName="width" values="0;60" dur="1.2s" begin="0.50s" fill="freeze"/>
+        <rect x="311" y="0" width="51" height="10" rx="3" fill="#e34c26">
+          <animate attributeName="width" values="0;51" dur="1.2s" begin="0.50s" fill="freeze"/>
         </rect>
         
     </g>
@@ -101,21 +101,21 @@
         <g transform="translate(40, 145)">
           <circle cx="6" cy="6" r="4" fill="#3178c6"/>
           <text x="18" y="10" class="font-mono" font-size="11.5" fill="#f0f6fc">TypeScript</text>
-          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">66.7%</text>
+          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">57.1%</text>
         </g>
         
 
         <g transform="translate(220, 145)">
           <circle cx="6" cy="6" r="4" fill="#3572A5"/>
           <text x="18" y="10" class="font-mono" font-size="11.5" fill="#f0f6fc">Python</text>
-          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">16.7%</text>
+          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">28.6%</text>
         </g>
         
 
         <g transform="translate(40, 177)">
           <circle cx="6" cy="6" r="4" fill="#e34c26"/>
           <text x="18" y="10" class="font-mono" font-size="11.5" fill="#f0f6fc">HTML</text>
-          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">16.7%</text>
+          <text x="140" y="10" text-anchor="end" class="font-mono" font-size="11" fill="#8b949e">14.3%</text>
         </g>
         
     </g>
